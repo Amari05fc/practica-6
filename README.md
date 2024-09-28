@@ -1,1 +1,1 @@
-# Practica 6.1
+# Practica 6
