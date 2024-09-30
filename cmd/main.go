@@ -8,5 +8,7 @@ import (
 )
 
 func main() {
+	fmt.Println("Main")
+	fmt.Println(config.PASSWORD)
 	fmt.Println("Variables de entorno: ", config.USERNAME, config.PASSWORD)
 }
